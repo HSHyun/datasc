@@ -12,9 +12,9 @@
 - This workspace is for a senior-year Data Science course.
 - `/Users/hsh/datasc/pdf/` contains course PDFs covered so far.
 - `IC_PBL시나리오.pdf` defines the final target.
-- FAF data is present under `/Users/hsh/datasc/FAF5.7.1_2018-2024/`.
-- Primary dataset: `/Users/hsh/datasc/FAF5.7.1_2018-2024/FAF5.7.1_2018-2024.csv`
-- Metadata file: `/Users/hsh/datasc/FAF5.7.1_2018-2024/FAF5_metadata.xlsx`
+- FAF data is present under `/Users/hsh/datasc/data/`.
+- Primary dataset: `/Users/hsh/datasc/data/FAF5.7.1_2018-2024.csv`
+- Metadata file: `/Users/hsh/datasc/data/FAF5_metadata.xlsx`
 - Workspace memory read order: `HANDOFF.md` -> `EVENTS.md` -> `AGENT.md` -> `FEEDBACK.md` -> `COMMANDS.md`
 - Missing memory docs require permission before creation.
 

@@ -10,3 +10,4 @@
 - 2026-04-08 | Do not leave durable context only in `memo.md`; sync relevant items into `docs/`.
 - 2026-04-08 | For non-trivial tasks, make a brief plan before editing.
 - 2026-04-08 | If `docs/` or its memory files do not exist, ask for permission before creating them.
+- 2026-04-19 | For plotting or UI rendering issues, do not rely on default fixes. Check the user's actual output, isolate the root cause, and use the most reliable remedy even if it is more explicit or verbose.

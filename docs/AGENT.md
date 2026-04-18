@@ -4,8 +4,8 @@
 - Workspace: `/Users/hsh/datasc`
 - Course: senior year, semester 2, Data Science
 - Source docs: `/Users/hsh/datasc/pdf/`
-- Main data: `/Users/hsh/datasc/FAF5.7.1_2018-2024/FAF5.7.1_2018-2024.csv`
-- Metadata: `/Users/hsh/datasc/FAF5.7.1_2018-2024/FAF5_metadata.xlsx`
+- Main data: `/Users/hsh/datasc/data/FAF5.7.1_2018-2024.csv`
+- Metadata: `/Users/hsh/datasc/data/FAF5_metadata.xlsx`
 - Goal anchor: `/Users/hsh/datasc/pdf/IC_PBL시나리오.pdf`
 
 ## Read Order
